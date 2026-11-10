@@ -1,0 +1,9 @@
+/config.local.php
+/.env
+/.env.*
+/uploads/stay_images/*
+!/uploads/stay_images/.gitkeep
+/uploads/profile_pics/*
+!/uploads/profile_pics/.gitkeep
+*.log
+.DS_Store
